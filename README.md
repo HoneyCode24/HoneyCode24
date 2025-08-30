@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Honey!
 
-I'm a self-taught web developer on a mission to master the full web development stack and build digital products that solve real problems.
+I'm a self-taught web developer on a mission to master the frontend development and build digital products that solve real problems.
 
-- 🔭 Currently working on: My personal portfolio & a full-stack app 🚀
-- 🌱 Learning: JavaScript, React, Node.js, MongoDB
+- 🔭 Currently working on: My personal portfolio & a frontend projects 🚀
+- 🌱 Learning: JavaScript, React, Next
 - 💼 Open to freelance and collaboration opportunities
 - 💬 Ask me about: Web dev, project ideas, self-learning tips
 - 📫 Reach me at: honeycodes24@gmail.com
@@ -13,9 +13,8 @@ I'm a self-taught web developer on a mission to master the full web development 
 ## 🛠 Tech Stack
 
 - 🌐 HTML, CSS, JavaScript
-- ⚛️ React.js (learning in progress)
-- 🌍 Node.js, Express.js (learning in progress)
-- 🛢 MongoDB (learning in progress)
+- ⚛️ React.js 
+- 🌍 Next.js (learning in progress)
 - 🔧 Git & GitHub
 
 ---
@@ -30,7 +29,7 @@ I'm a self-taught web developer on a mission to master the full web development 
 
 ## ✨ Goals for 2025
 
-- ✅ Build 5+ real-world web projects
+- ✅ Build 5+ real-world frontend web projects
 - ✅ Launch my personal portfolio
 - ✅ Contribute to open source
 - ✅ Start my first freelance/web dev income stream
