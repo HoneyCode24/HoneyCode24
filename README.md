@@ -27,11 +27,5 @@ I'm a self-taught web developer on a mission to master the frontend development 
 
 ---
 
-## ✨ Goals for 2025
-
-- ✅ Build 5+ real-world frontend web projects
-- ✅ Launch my personal portfolio
-- ✅ Contribute to open source
-- ✅ Start my first freelance/web dev income stream
 
 Let's build and grow together 💪🔥
